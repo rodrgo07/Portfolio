@@ -184,6 +184,10 @@ main{
     text-transform: uppercase;
 }
 
+.box li{
+    border-radius: 12px;
+}
+
 .box li:hover{
     border-radius: 12px;
     background-color: white;
